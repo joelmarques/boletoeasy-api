@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://boletouser:boletopwd@localhost:27017/boletoeasy
+
+
+server:
+  port: 8082
